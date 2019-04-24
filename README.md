@@ -16,7 +16,7 @@ In order to develop an extension you need to run it in "Developer mode". Here ar
 5. When developer mode is enabled, you should see some new buttons appear. Click the **Load unpacked extension...** button. ("Unpacked" simply means that it hasn't been zipped up because you're still working on it. When you publish your extension to the Chrome store, you need to zip it up, but don't worry about that yet.)
 6. Find and select your project folder on your computer.
     * If it's running correctly, you should see something like this.
-    ![Running an extension in developer mode](images/readme-developer-mode.png)
+    ![Running an extension in developer mode
     * If there's an error, you'll see a yellow box appear that will tell you what's wrong.
 
 7. Open a new tab, and see the extension running! Now when you make changes, you can refresh the page and see your changes.
